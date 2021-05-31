@@ -9,9 +9,6 @@
     - name: Include - Configure CUPS
       include: cups_configure.yml
 
-    - name: Include - Install PPDs.
-      include: ppd_install.yml
-
     - name: Include - Uninstall any defined printers and install any printers and classes defined.
       include: printer_and_class_install.yml
 

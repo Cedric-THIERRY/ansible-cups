@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: Hitesh Prabhakar
+  author: CTHIERRY
   description: Installs CUPS, installs necessary PPDs and installs printers and classes on CUPS
   license: MIT
   min_ansible_version: 2.1
